@@ -23,6 +23,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
+        "@popperjs/core": "^2.9.2",
         "bootstrap": "^5.0.2",
         "css-what": "^5.0.1",
         "resolve-url-loader": "^4.0.0",
