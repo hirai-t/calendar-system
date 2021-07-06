@@ -60,3 +60,18 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## 使用技術
+
+laravel,bootstrap,jquery
+
+## 開発環境
+
+windows10,xampp,laravel8.32.1
+
+## 機能
+
+カレンダー
+年間・月間・日間ページ表示
+ユーザー登録・認証・削除
+予定登録・編集・削除
