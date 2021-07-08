@@ -67,7 +67,7 @@ laravel,bootstrap,jquery
 
 ## 開発環境
 
-windows10,xampp,laravel8.32.1
+windows10,xampp,laravel8.32.1,Visual Studio Code
 
 ## 機能
 
