@@ -69,6 +69,9 @@ laravel,bootstrap,jquery
 
 windows10,xampp,laravel8.32.1,Visual Studio Code
 
+## サーバー
+heroku、mysql
+
 ## 機能
 
 カレンダー<br>
